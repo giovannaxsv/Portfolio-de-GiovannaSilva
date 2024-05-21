@@ -32,7 +32,7 @@ nav ul li a {
 .container {
     width: 80%;
     margin: 20px auto;
-    background-color: rgb(10, 207, 82);
+    background-color: white;
     padding: 20px;
     box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
 }
